@@ -4,6 +4,6 @@ I'm learning JS and DOM for websites and this is my practice project to check my
 
 # The website looks like this
 
-![Website](To_do_List.pdf?raw=true)
+![Website](https://github.com/Ramer2/Todo_list/blob/main/todo_list.jpg)
 
 This website allows to create and remove tasks, while also saving them in the local storage of the website.
